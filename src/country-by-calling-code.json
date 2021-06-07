@@ -812,7 +812,6 @@
         "calling_code": 34
     },
     {
-
         "country": "Sri Lanka",
         "calling_code": null
     },
@@ -843,6 +842,10 @@
     {
         "country": "Syria",
         "calling_code": 963
+    },
+    {
+        "country": "Taiwan, China",
+        "calling_code": 886
     },
     {
         "country": "Tajikistan",

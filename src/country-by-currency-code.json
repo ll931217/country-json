@@ -844,6 +844,10 @@
         "currency_code": "SYP"
     },
     {
+        "country": "Taiwan, China",
+        "currency_code": "TWD"
+    },
+    {
         "country": "Tajikistan",
         "currency_code": "TJS"
     },

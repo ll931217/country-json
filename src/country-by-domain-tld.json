@@ -844,6 +844,10 @@
         "tld": ".sy"
     },
     {
+        "country": "Taiwan, China",
+        "tld": ".tw"
+    },
+    {
         "country": "Tajikistan",
         "tld": ".tj"
     },

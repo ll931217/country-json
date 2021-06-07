@@ -844,6 +844,10 @@
         "currency_name": "Syrian Pound"
     },
     {
+        "country": "Taiwan, China",
+        "currency_name": "New Taiwan Dollar"
+    },
+    {
         "country": "Tajikistan",
         "currency_name": "Tajik Somoni"
     },
